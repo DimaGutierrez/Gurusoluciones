@@ -2,7 +2,7 @@
 # Guru Soluciones
 Test modules
 
-Schema >
+Schema > Copy paste > editable > block de notas >
 ```
 <script type="application/ld+json">
 {
@@ -14,7 +14,7 @@ Schema >
 }
 </script>
 ````
-Ticket Meet >
+Ticket Meet > Copy paste > editable > block de notas >
 ````
 --------------------------------------
 ####################################
