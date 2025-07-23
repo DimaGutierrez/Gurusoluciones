@@ -3,7 +3,7 @@
 Test modules
 
 Schema >
-``json
+```
 <script type="application/ld+json">
 {
     "@context":"https://schema.org",
@@ -13,4 +13,5 @@ Schema >
     "url":"https://"
 }
 </script>
-```
+````
+
