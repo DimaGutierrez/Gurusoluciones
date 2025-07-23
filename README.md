@@ -2,14 +2,15 @@
 # Guru Soluciones
 Test modules
 
+Schema >
 ``json
 <script type="application/ld+json">
 {
     "@context":"https://schema.org",
     "@type":"Website", 
-    "name":"Diego R Gutierrez", 
-    "alternateName":"Portfolio", 
-    "url":"https://diegosurf.wixsite.com/diegorgutierrez"
+    "name":"", 
+    "alternateName":"", 
+    "url":"https://"
 }
 </script>
 ```
