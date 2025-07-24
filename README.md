@@ -38,7 +38,7 @@ PC CON CONEXION A INTERNET > MICROFONO / AUDIO > COMPARTIR PANTALLA EN UNA MEET 
 Nota: " "
 
 --------------------------------------
-DIEGO GUTIERREZ
+DIEGO GUTIERREZ 
 diego.gutierrez@gurusoluciones.com
 Diseñador SAC Postproducción 
 gurusoluciones.com
