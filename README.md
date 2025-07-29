@@ -81,3 +81,15 @@ gurusoluciones.com
 --------------------------------------
 ####################################
 ````
+plantillas_solicitudes/Solicitantes.txt
+````
+> Recomendaciones de éxito a la hora de hacer una solicitud >
+> Describa su necesidad > esto podría acelerar los procesos habiendo podido hacer una evaluación y diagnostico sobre su solicitud.
+> Mencione su pagina web > https://www.SUSITIO.com Es necesario validar la url a trabajar, ya que en ocasiones los clienteS tienen mas de un dominio y simplemente lo cambiaron y no fue informado.
+> Provea numero de teléfono seguros en los que podamos ubicarla > es posible que los clientes cambien de numero y no se actualiza en la base de datos.
+> Escriba su email > es posible que necesitemos ver su solicitud via meet
+````
+/SAC_INFORMA_ARGENTINA.txt
+````
+estas en contacto con el diseñador Diego Gutiérrez de Guru Soluciones, por favor inicie comunicaciones respondiendo este mensaje.
+````
