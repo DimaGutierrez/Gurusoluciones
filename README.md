@@ -1,15 +1,15 @@
 ![gur_cover](https://github.com/user-attachments/assets/bdeea294-b885-4484-87f2-d96e6a8b8636)
 # Guru Soluciones
-Modulos de trabajo
+## Modulos de trabajo
 
 ## ![INTEGRACION SCHEMA EN WIX](#26)
-## PLANTILLA MEET TICKET DE DATOS PROCESADOS/VALIDADOS
-## TITULOS
-## DESCRIPCION
-## FIRMA
-## SOLICITUDES DE CLIENTES
-## SAC INFORMA ARGENTINA/WSP HIPER > MENSAJE DE ACCION >
-## MAPA DUDA ANCHO 100% 
+## ![PLANTILLA MEET TICKET DE DATOS PROCESADOS/VALIDADOS]
+## ![TITULOS]
+## ![DESCRIPCION]
+## ![FIRMA]
+## ![SOLICITUDES DE CLIENTES]
+## ![SAC INFORMA ARGENTINA/WSP HIPER > MENSAJE DE ACCION] >
+## ![MAPA DUDA ANCHO 100%] 
 
 ### Schema > Copy paste > editable > block de notas > #26
 ```
