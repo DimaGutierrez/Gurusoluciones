@@ -2,6 +2,15 @@
 # Guru Soluciones
 Modulos de trabajo
 
+## INTEGRACION SCHEMA EN WIC
+## PLANTILLA MEET TICKET DE DATOS PROCESADOS/VALIDADOS
+## TITULOS
+## DESCRIPCION
+## FIRMA
+## SOLICITUDES DE CLIENTES
+## SAC INFORMA ARGENTINA/WSP HIPER > MENSAJE DE ACCION >
+## MAPA DUDA ANCHO 100% 
+
 Schema > Copy paste > editable > block de notas >
 ```
 <script type="application/ld+json">
@@ -14,7 +23,7 @@ Schema > Copy paste > editable > block de notas >
 }
 </script>
 ````
-TITULOS Ticket Meet > Copy paste > editable > block de notas >
+### TITULOS Ticket Meet > Copy paste > editable > block de notas >
 ````
 --------------------------------------
 ####################################
@@ -24,7 +33,7 @@ GURU SOLUCIONES > TICKET >
 --------------------------------------  < Descripcion de la meet
 ````
 
-DESCRIPCION Ticket Meet > Copy paste > editable > block de notas >
+### DESCRIPCION Ticket Meet > Copy paste > editable > block de notas >
 ````
 CUANDO > 
 HORARIO > 00:00AM HORA LOCAL (ARG)  
@@ -42,7 +51,7 @@ PC CON CONEXION A INTERNET > MICROFONO / AUDIO > COMPARTIR PANTALLA EN UNA MEET 
 Nota: " "
 ````
 
-FIRMA Ticket Meet > Copy paste > editable > block de notas >
+### FIRMA General > Copy paste > editable > block de notas >
 ````
 DIEGO GUTIERREZ 
 diego.gutierrez@gurusoluciones.com
@@ -50,7 +59,7 @@ Diseñador SAC Postproducción
 gurusoluciones.com
 ````
 
-COMPLETO Ticket Meet > Copy paste > editable > block de notas >
+### COMPLETO Ticket Meet > Copy paste > editable > block de notas >
 ````
 --------------------------------------
 ####################################
@@ -81,7 +90,7 @@ gurusoluciones.com
 --------------------------------------
 ####################################
 ````
-plantillas_solicitudes/Solicitantes.txt
+### plantillas_solicitudes/Solicitantes.txt
 ````
 > Recomendaciones de éxito a la hora de hacer una solicitud >
 > Describa su necesidad > esto podría acelerar los procesos habiendo podido hacer una evaluación y diagnostico sobre su solicitud.
@@ -89,12 +98,12 @@ plantillas_solicitudes/Solicitantes.txt
 > Provea numero de teléfono seguros en los que podamos ubicarla > es posible que los clientes cambien de numero y no se actualiza en la base de datos.
 > Escriba su email > es posible que necesitemos ver su solicitud via meet
 ````
-/SAC_INFORMA_ARGENTINA.txt
+### /SAC_INFORMA_ARGENTINA.txt
 ````
 estas en contacto con el diseñador Diego Gutiérrez de Guru Soluciones, por favor inicie comunicaciones respondiendo este mensaje.
 ````
 
-MAPA DUDA ANCHO 100%
+### MAPA DUDA ANCHO 100%
 ````
 <style type="text/css">
   .google-maps {
@@ -131,13 +140,13 @@ MAPA DUDA ANCHO 100%
 
 ````
 ---------------------------------------------------------------
-html
+### html
 ````
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d418.26744057043317!2d-60.645709855899646!3d-33.000096823664585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b7abdb89632ef5%3A0x494d978de10bd36b!2sAv.%20Ntra%20Sra%20del%20Rosario%20727%2C%20S2011AXH%20Rosario%2C%20Santa%20Fe!5e0!3m2!1ses!2sar!4v1752580583791!5m2!1ses!2sar" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
  </iframe>
 ````
 ------------
-css
+### css
 ````
 *#dm *.p_hfcontainer div.u_1386131422{
 ````
