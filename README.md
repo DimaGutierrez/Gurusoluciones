@@ -2,7 +2,7 @@
 # Guru Soluciones
 Modulos de trabajo
 
-## [INTEGRACION SCHEMA EN WIC (https://github.com/DimaGutierrez/Gurusoluciones/blob/main/README.md#schema--copy-paste--editable--block-de-notas-)]
+## [INTEGRACION SCHEMA EN WIX (#26)]
 ## PLANTILLA MEET TICKET DE DATOS PROCESADOS/VALIDADOS
 ## TITULOS
 ## DESCRIPCION
@@ -11,7 +11,7 @@ Modulos de trabajo
 ## SAC INFORMA ARGENTINA/WSP HIPER > MENSAJE DE ACCION >
 ## MAPA DUDA ANCHO 100% 
 
-### Schema > Copy paste > editable > block de notas >
+### Schema > Copy paste > editable > block de notas > #26
 ```
 <script type="application/ld+json">
 {
