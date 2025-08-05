@@ -2,7 +2,7 @@
 # Guru Soluciones
 Modulos de trabajo
 
-## INTEGRACION SCHEMA EN WIC
+## [INTEGRACION SCHEMA EN WIC (https://github.com/DimaGutierrez/Gurusoluciones/blob/main/README.md#schema--copy-paste--editable--block-de-notas-)]
 ## PLANTILLA MEET TICKET DE DATOS PROCESADOS/VALIDADOS
 ## TITULOS
 ## DESCRIPCION
