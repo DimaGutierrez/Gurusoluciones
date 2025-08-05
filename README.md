@@ -1,7 +1,7 @@
 ![gur_cover](https://github.com/user-attachments/assets/bdeea294-b885-4484-87f2-d96e6a8b8636)
 # Guru Soluciones
 ## Modulos de trabajo
-</>
+<></>
 
 ## [INTEGRACION SCHEMA EN WIX](#26)
 ## [PLANTILLA MEET TICKET DE DATOS PROCESADOS/VALIDADOS]
