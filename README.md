@@ -93,3 +93,55 @@ plantillas_solicitudes/Solicitantes.txt
 ````
 estas en contacto con el diseñador Diego Gutiérrez de Guru Soluciones, por favor inicie comunicaciones respondiendo este mensaje.
 ````
+
+MAPA DUDA ANCHO 100%
+````
+<style type="text/css">
+  .google-maps {
+	position: relative;
+	height: 300px;
+	overflow: hidden;
+}
+.google-maps iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+}
+.google-maps iframe {
+    border-radius: 0 0 0 0 !important;
+}
+````
+
+````
+ </style>
+ <div class="google-maps">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d223.67800786232448!2d-58.02905235785044!3d-31.389523678656712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95ade98438cf4341%3A0xfe1c8d08eef0174f!2sMARMOLERIA%20La%20Casa%20Del%20Recontituido!5e1!3m2!1ses!2sus!4v1752261231667!5m2!1ses!2sus" width="1200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+  </iframe>
+ </div>
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d223.67800786232448!2d-58.02905235785044!3d-31.389523678656712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95ade98438cf4341%3A0xfe1c8d08eef0174f!2sMARMOLERIA%20La%20Casa%20Del%20Recontituido!5e1!3m2!1ses!2sus!4v1752261231667!5m2!1ses!2sus" width="1200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+````
+````
+
+<script src="https://chat.gurusoluciones.com/api/assets/chat.js?id=320078"></script>
+
+````
+---------------------------------------------------------------
+html
+````
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d418.26744057043317!2d-60.645709855899646!3d-33.000096823664585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b7abdb89632ef5%3A0x494d978de10bd36b!2sAv.%20Ntra%20Sra%20del%20Rosario%20727%2C%20S2011AXH%20Rosario%2C%20Santa%20Fe!5e0!3m2!1ses!2sar!4v1752580583791!5m2!1ses!2sar" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+ </iframe>
+````
+------------
+css
+````
+*#dm *.p_hfcontainer div.u_1386131422{
+````
+}
+
+----------------------------------
+
