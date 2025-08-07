@@ -100,11 +100,18 @@ gurusoluciones.com
 > Provea numero de teléfono seguros en los que podamos ubicarla > es posible que los clientes cambien de numero y no se actualiza en la base de datos.
 > Escriba su email > es posible que necesitemos ver su solicitud via meet
 ````
-### /SAC_INFORMA_ARGENTINA.txt
+### /SAC_INFORMA_ARGENTINA.txt > Campo 3 #1 >
 ````
 estas en contacto con el diseñador Diego Gutiérrez de Guru Soluciones, por favor inicie comunicaciones respondiendo este mensaje.
 ````
-
+### /SAC_INFORMA_ARGENTINA.txt > Campo 1 #2 >
+````
+CLIENTE > Somos de Guru Soluciones >
+````
+### /SAC_INFORMA_ARGENTINA.txt > Campo 3 #2 >
+````
+estas en contacto con el diseñador Diego Gutiérrez > diego.gutierrez@gurusoluciones.com, por favor inicie comunicaciones respondiendo este mensaje. >
+````
 ### MAPA DUDA ANCHO 100%
 ````
 <style type="text/css">
