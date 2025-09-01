@@ -82,7 +82,7 @@ EN ESTA MEET VEREMOS: " "
 REQUERIMIENTOS:
 PC CON CONEXION A INTERNET > MICROFONO / AUDIO > COMPARTIR PANTALLA EN UNA MEET "EN CASO QUE SE REQUIERA" > APRENDE EN ESTE LINK > https://support.google.com/meet/answer/9308856?hl=es-419&co=GENIE.Platform%3DDesktop
 
-Nota: " "
+Nota: "DE NO PODER ASISTIR DEBE DAR AVISO "
 
 --------------------------------------
 DIEGO GUTIERREZ 
