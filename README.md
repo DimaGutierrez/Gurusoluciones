@@ -12,7 +12,7 @@
 ## [SAC INFORMA ARGENTINA/WSP HIPER > MENSAJE DE ACCION] >
 ## [MAPA DUDA ANCHO 100%] 
 #
-#
+#.
 ### Schema > Copy paste > editable > block de notas > #26 https://github.com/DimaGutierrez/Gurusoluciones/discussions/3#discussion-8699744
 ```
 <script type="application/ld+json">
