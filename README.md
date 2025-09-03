@@ -64,10 +64,10 @@ gurusoluciones.com
 ### COMPLETO Ticket Meet > Copy paste > editable > block de notas >
 ````
 --------------------------------------
-####################################
+#################################
 GURU SOLUCIONES > TICKET > 
 0.000.000 (ARG) ACTUALIZACIONES         < titulo de la meet
-####################################
+#################################
 --------------------------------------  < Descripcion de la meet
 CUANDO > 
 HORARIO > 00:00AM HORA LOCAL (ARG)  
@@ -93,7 +93,7 @@ diego.gutierrez@gurusoluciones.com
 Diseñador SAC Postproducción 
 gurusoluciones.com
 --------------------------------------
-####################################
+#################################
 ````
 ### plantillas_solicitudes/Solicitantes.txt
 ````
