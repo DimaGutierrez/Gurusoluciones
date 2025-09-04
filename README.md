@@ -83,9 +83,8 @@ REQUERIMIENTOS:
 PC CON CONEXION A INTERNET > MICROFONO / AUDIO > COMPARTIR PANTALLA EN UNA MEET "EN CASO QUE SE REQUIERA" > APRENDE EN ESTE LINK > https://support.google.com/meet/answer/9308856?hl=es-419&co=GENIE.Platform%3DDesktop
 
 Nota:
-"Le recomendamos un cuaderno dedicado solo notas de Guru..
-
-Gracias a nuestra Invitada Maria Amanda Montaño Murcia, moderadora, participara en caso que se requiera."
+> Le recomendamos un cuaderno dedicado solo notas de Guru, para centralizar información.
+> Gracias a nuestra Invitada Maria Amanda Montaño Murcia, moderadora, participara en caso que se requiera, como soporte sobre asuntos que excedan mi gestión. 
 
 --------------------------------------
 DIEGO GUTIERREZ 
