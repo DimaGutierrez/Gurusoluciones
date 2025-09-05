@@ -34,7 +34,10 @@ GURU SOLUCIONES > TICKET >
 ####################################
 --------------------------------------  < Descripcion de la meet
 ````
-
+### ENCUESTA MEET
+````
+https://drive.google.com/open?id=1_diwQB_ZuwJXZnxfpYVI3Wts1Cx4zNkDeDSmRtx_oSA&usp=chrome_ntp
+````
 ### DESCRIPCION Ticket Meet > Copy paste > editable > block de notas >
 ````
 CUANDO > 
