@@ -167,4 +167,27 @@ estas en contacto con el diseñador Diego Gutiérrez > diego.gutierrez@gurusoluc
 }
 
 ----------------------------------
-.
+### Google calendar DUDA > https://www.cuanticasproducciones.com/
+````
+<div class="calendar-container">
+  <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=America%2FArgentina%2FBuenos_Aires&amp;showPrint=0&amp;src=c2VjcmV0YXJpYWN1YW50aWNhc3Byb2R1Y0BnbWFpbC5jb20&amp;src=ZXMtdXMuYXIjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZXMuYXIjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039be5&amp;color=%230b8043&amp;color=%230b8043" style="border:0;" frameborder="0" scrolling="no">
+  </iframe>
+ </div>
+ <style>
+  .calendar-container {
+  position: relative;
+  padding-bottom: 75%; /* Proporción de alto (4:3 ≈ 75%, ajusta según quieras) */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.calendar-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+ </style>
+````
