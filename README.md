@@ -87,7 +87,7 @@ PC CON CONEXION A INTERNET > MICROFONO / AUDIO > COMPARTIR PANTALLA EN UNA MEET 
 
 Nota:
 > Le recomendamos un cuaderno dedicado solo notas de Guru, para centralizar información.
-> Gracias a nuestra Invitada Maria Amanda Montaño Murcia, moderadora, participara en caso que se requiera, como soporte sobre asuntos que excedan mi gestión. 
+> Gracias a nuestra Invitada Maria Amanda Montaño Murcia, moderadora, participara en caso que se requiera, soporte sobre otros productos y gestiones. 
 
 --------------------------------------
 DIEGO GUTIERREZ 
