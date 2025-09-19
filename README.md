@@ -38,6 +38,9 @@ GURU SOLUCIONES > TICKET >
 ````
 https://drive.google.com/open?id=1_diwQB_ZuwJXZnxfpYVI3Wts1Cx4zNkDeDSmRtx_oSA&usp=chrome_ntp
 ````
+````
+https://docs.google.com/forms/d/e/1FAIpQLSeBovL3RnS0D5LjN4-NBZvnpqVhF8cs2DRaghgF4KqK57mX1g/viewform?usp=dialog
+````
 ### DESCRIPCION Ticket Meet > Copy paste > editable > block de notas >
 ````
 CUANDO > 
