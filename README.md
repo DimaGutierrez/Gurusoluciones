@@ -82,6 +82,8 @@ TEL >
 WEB > https://?????????????????????.com/
 INVITADOS: "@@@@@", maria.montano@gurusoluciones.com (CO)
 DURACION ESTIMADA: "estimar"h APROX
+TIEMPO DE TOLERACIA: 15 MIN 
+Pasado el tiempo indicado se reprogramará la reunión.
 
 EN ESTA MEET VEREMOS: " "
 
