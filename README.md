@@ -25,6 +25,17 @@
 }
 </script>
 ````
+### SCRIP CALENDARIO FLOTANTE CONECTA + OTROS WIDGETS
+````
+<div id='bw-widget' data-widget='FLOATING' data-color='black'
+data-identifier="663c203b89dafd0a2ac669a4" class='bw-widgets' style='width: 250px; margin: auto;
+margin-top: 20px'></div>
+<link rel='stylesheet'
+href='https://s3.amazonaws.com/bellahora_my_files/widget/index.css'>
+<script src='https://web.bewe.co/widget/bewidget.js'></script>
+<script
+src='https://s3.amazonaws.com/bellahora_my_files/widget/index.js'></script>
+````
 ### TITULOS Ticket Meet > Copy paste > editable > block de notas >
 ````
 --------------------------------------
