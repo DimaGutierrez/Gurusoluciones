@@ -25,6 +25,10 @@
 					
 				});
 			</script>
+<div style='position: fixed; z-index: 99999;'>
+    <div id='ia-sdk-root'></div>
+</div>
+
 ```
 
 ### Schema > Copy paste > editable > block de notas > #26 https://github.com/DimaGutierrez/Gurusoluciones/discussions/3#discussion-8699744
