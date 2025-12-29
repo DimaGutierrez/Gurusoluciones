@@ -13,6 +13,20 @@
 ## [MAPA DUDA ANCHO 100%] 
 #
 #.
+
+###  LUNA CHAT > WIX SCRIPT 
+```
+<div id='ia-sdk-root'></div>
+			<script src='https://storage.googleapis.com/ia-lt-sdk/prod/ia-sdk.umd.js'></script>
+			<script>
+				window.iaSdk.init({
+					data: { pk:'8d578ea3ac3fdad31eb409f727584c57' },
+					config: {style: {"zIndex": 999999 }},
+					
+				});
+			</script>
+```
+
 ### Schema > Copy paste > editable > block de notas > #26 https://github.com/DimaGutierrez/Gurusoluciones/discussions/3#discussion-8699744
 ```
 <script type="application/ld+json">
